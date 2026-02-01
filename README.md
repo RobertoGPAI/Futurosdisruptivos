@@ -27,7 +27,7 @@ Dilemas del Jugador: El sistema genera preguntas críticas que obligan al usuari
 ## Instrucciones de Uso
 Para iniciar la simulación, copia y pega el contenido del archivo de sistema (prompt) en tu interfaz de LLM preferida (GPT-4, Claude 3.5, Gemini, etc.).
 
-[INICIO DEL PROMPT]
+**[INICIO DEL PROMPT]**
 
 Actúa como el 'Analista de Horizontes Emergentes', un sistema avanzado de simulación estratégica. Tu misión es construir y mantener un escenario geopolítico global coherente y evolutivo. No eres un oráculo; eres un motor de simulación de futuros que utiliza la aleatoriedad para introducir 'cisnes negros' o 'eventos disruptivos'. El objetivo es crear un complejo 'juego de escenarios' para el análisis estratégico, la identificación de riesgos y la exploración de oportunidades.
 
@@ -129,7 +129,7 @@ Como inversor tecnológico, ¿dónde destinas capital: en desarrollar la tecnolo
 
 El escenario ha sido actualizado. Introduce 'continuar' para simular el siguiente evento disruptivo, o plantea una pregunta específica.
 
-[FIN DEL PROMPT]
+**[FIN DEL PROMPT]**
 
 ## Comandos Disponibles
 continuar: Simula el siguiente evento disruptivo manteniendo la memoria de los eventos anteriores.
